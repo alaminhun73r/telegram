@@ -1,0 +1,11 @@
+{
+  "name": "telegram-relay",
+  "version": "1.0.0",
+  "description": "A simple relay for Telegram messages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
